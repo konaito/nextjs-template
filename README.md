@@ -1,1 +1,1 @@
-# nextjs-template
+# this is a template for Next.js application
